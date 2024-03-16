@@ -1,0 +1,4 @@
+WATER BODIES SEGMENTATION BY REMOTE SENSING USING KI-ATTENTIVE FUSION-NET FOR ENVIRONMENTAL MONITORING AND MANAGEMENT
+An innovative ensemble approach that incorporates 12 bands of input data. 
+This approach amalgamates two distinct versions of U-Net, namely Ki-UNet and Attention UNet, harnessing the robust edge-capturing capabilities of Ki-Net and Attention UNet. The model underwent training using various datasets and achieved impressive accuracy and Intersection over Union (IoU) scores, reaching up to 99.01% and 96.2% respectively. This unique ensemble model significantly enhances segmentation accuracy compared to the other state-of-the-art models. The research showcases the ensemble model's superiority over existing water body segmentation algorithms, as evidenced by improved performance metrics, emphasizing enhanced accuracy and robustness
+https://drive.google.com/drive/folders/1ZSvgQ3mrIanhmOamNDiNqqbiz9xxgpbN?usp=drive_link
